@@ -1,4 +1,3 @@
-
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -15,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
-global.location = "Africa, Egypt, Cairo" //ur location
+global.owner = ['994400853441'] //ur owner number
+global.ownername = "s7sntar❤️" //ur owner name
+global.ytname = "YT: s7sntar" //ur yt chanel name
+global.socialm = "GitHub: s7sntar" //ur github or insta name
+global.location = "Asiya, syria, damaskos" //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+global.ownernomer = "994400853441" //ur number
+global.premium = ['994400853441'] //ur premium number
+global.botname = 's7sntar ᗷOT❤️' //ur bot name
+global.linkz = "https://www.tiktok.com/@a2gkora?_t=8dO9BMaxm1V&_r=1" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/@AMGkora" //ur website to be displayed
+global.botscript = 'https://www.tiktok.com/@a2gkora?_t=8dO9BMaxm1V&_r=1' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.packname = "المؤسس سحسنتر" //ur sticker watermark packname
+global.author = "⍣+905519445622⍣" //ur sticker watermark author
+global.wm = "s7sntar m2ass." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -88,37 +87,37 @@ global.limitAwal = {
 
 //adventure2
 global.emot = {
-role: '🏆',
-level: '🎚️',
-limit: '📊',
-health: '❤️',
-exp: '💫',
-money: '💵',
-potion: '🥤',
-diamond: '💎',
-common: '📦',
-uncommon: '🎁',
-mythic: '🗳️',
-legendary: '🗃️',
-pet: '🎁',
-trash: '🗑',
-armor: '👕',
-sword: '⚔️',
-wood: '🪵',
-batu: '🪨',
-string: '🕸️',
-horse: '🐎',
-cat: '🐈',
-dog: '🐕',
-fox: '🦊',
-petFood: '🍖',
-iron: '⛓️',
-gold: '👑',
-emerald: '💚',
-budak: '🏃',
-busur: '🏹',
-panah: '💘',
-kapak: '🪓'
+بطولة: '🏆',
+لفل: '🎚️',
+الحد: '📊',
+العمر: '❤️',
+اكسبي: '💫',
+مصاري: '💵',
+عصير: '🥤',
+الماس: '💎',
+صندوق: '📦',
+هدية: '🎁',
+اسطوري: '🗳️',
+لجندري: '🗃️',
+هدية: '🎁',
+قمامة: '🗑',
+قميص: '👕',
+حرب: '⚔️',
+خشب: '🪵',
+حجر: '🪨',
+شبكة: '🕸️',
+حصان: '🐎',
+قط: '🐈',
+كلب: '🐕',
+سنكر: '🦊',
+لحم: '🍖',
+سلسلة: '⛓️',
+ملك: '👑',
+زمرد: '💚',
+ركد: '🏃',
+سهم: '🏹',
+سهم اخطرق القلب: '💘',
+فئس: '🪓'
 }
 
 let file = require.resolve(__filename)
